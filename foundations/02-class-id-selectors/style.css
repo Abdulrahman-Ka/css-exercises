@@ -1,0 +1,22 @@
+p.text {
+    background-color: rgb(250, 173, 173);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+p.maint {
+    background-color: rgb(250, 173, 173);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+
+#simple {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#different {
+    background-color: rgb(119, 245, 119);
+    font-size: 24px;
+    font-weight: bold;
+}
